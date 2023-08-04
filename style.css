@@ -85,3 +85,8 @@ body{
   background: #e0e0e0;
   cursor: not-allowed;
 }
+@media screen and (max-width: 680px) {
+  body {
+    width: 100%;
+  }
+}
